@@ -68,14 +68,14 @@ def menu():
 | |___ ___) |  _|   |  _|| | | (_| | | | | | |  __/\ V  V / (_) | |  |   < 
  \____|____/|_|     |_|  |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\ %s{v1.0}
                                                         %s                                                                                          
-                                                                                                    
+                                                                                           
 %s   
-.------------------------------------------------------------------------------------.                                                                     
-    This project is still under development , Sorry for the bugs and errors		     |                    
-																					 |	
-           Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		      		     |
-                   twitter/%s@ilyas_essar %s                          		 	     |                                        				 		    
-'------------------------------------------------------------------------------------'
+------------------------------------------------------------------------------------                                                                     
+    This project is still under development , Sorry for the bugs and errors		                       																						
+           Coded BY %sIlyas Essar %s& %sKhadija Azimi%s 		      
+                   twitter/%s@ilyas_essar%s              
+				   
+'-----------------------------------------------------------------------------------
    
    Select from the menu:
     
