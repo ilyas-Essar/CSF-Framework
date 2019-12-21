@@ -53,11 +53,11 @@ def logo():
                                                         %s                                                                                                                
                                                                                                     
 %s  
-[+] This project is still under development , Sorry for the bugs and errors[+]                                                          [+]       
-[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		       [+] 
-[-]           twitter/%s@ilyas_essar %s                          		   [-] 
-[-]                                             				 		   [-] 
-""")%(G,R,B,G,Y,G,Y,G,R,G)
+[+] This project is still under development , Sorry for the bugs and errors     [+]                                                          [+]       
+[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		            [+] 
+[-]           twitter/%s@ilyas_essar %s                          		        [-] 
+[-]                                             				 		        [-] 
+""")%(G,R,B,G,Y,G,Y,G,R,G)  
 def menu():
     print ("""
 
@@ -70,10 +70,10 @@ def menu():
                                                         %s                                                                                          
                                                                                                     
 %s                                                                        
-[+] This project is still under development , Sorry for the bugs and errors[+]                                                          [+]       
-[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		       [+] 
-[-]           twitter/%s@ilyas_essar %s                          		   [-] 
-[-]                                             				 		   [-] 
+[+] This project is still under development , Sorry for the bugs and errors		[+]                                                          [+]       
+[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		      		[+] 
+[-]           twitter/%s@ilyas_essar %s                          		 		[-] 
+[-]                                             				 		        [-] 
 
     Select from the menu:
     
