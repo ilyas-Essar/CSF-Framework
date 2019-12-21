@@ -50,12 +50,13 @@ def logo():
 | |   \___ \| |_    | |_ | '__/ _` | '_ ` _ \ / _ \ \ /\ / / _ \| '__| |/ /
 | |___ ___) |  _|   |  _|| | | (_| | | | | | |  __/\ V  V / (_) | |  |   < 
  \____|____/|_|     |_|  |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\%s{v1.0}
-                                                        %s.                                                                                                                
+                                                        %s                                                                                                                
                                                                                                     
-%s                                                                        
-[+]       Coded BY %silyas %s& %skhadija          %s[+] 
-[-]           twitter/%s@ilyas_essar %s            [-] 
-[-]             Hello Friends                [-] 
+%s  
+[+] This project is still under development , Sorry for the bugs and errors[+]                                                          [+]       
+[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		       [+] 
+[-]           twitter/%s@ilyas_essar %s                          		   [-] 
+[-]                                             				 		   [-] 
 """)%(G,R,B,G,Y,G,Y,G,R,G)
 def menu():
     print ("""
@@ -66,12 +67,13 @@ def menu():
 | |   \___ \| |_    | |_ | '__/ _` | '_ ` _ \ / _ \ \ /\ / / _ \| '__| |/ /
 | |___ ___) |  _|   |  _|| | | (_| | | | | | |  __/\ V  V / (_) | |  |   < 
  \____|____/|_|     |_|  |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\ %s{v1.0}
-                                                        %s.                                                                                          
+                                                        %s                                                                                          
                                                                                                     
 %s                                                                        
-[+]       Coded BY %silyas %s& %skhadija          %s[+] 
-[-]           twitter/%s@ilyas_essar %s            [-] 
-[-]             Hello Friends                [-] 
+[+] This project is still under development , Sorry for the bugs and errors[+]                                                          [+]       
+[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		       [+] 
+[-]           twitter/%s@ilyas_essar %s                          		   [-] 
+[-]                                             				 		   [-] 
 
     Select from the menu:
     
