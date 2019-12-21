@@ -53,10 +53,10 @@ def logo():
                                                         %s                                                                                                                
                                                                                                     
 %s  
-[+] This project is still under development , Sorry for the bugs and errors     [+]                                                          [+]       
-[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		            [+] 
-[-]           twitter/%s@ilyas_essar %s                          		        [-] 
-[-]                                             				 		        [-] 
+ This project is still under development , Sorry for the bugs and errors      
+      Coded BY %s Ilyas Essar %s& %s Khadija Azimi  %s 		             
+            twitter/%s@ilyas_essar %s                          		        
+                                             				 		        
 """)%(G,R,B,G,Y,G,Y,G,R,G)  
 def menu():
     print ("""
@@ -69,13 +69,15 @@ def menu():
  \____|____/|_|     |_|  |_|  \__,_|_| |_| |_|\___| \_/\_/ \___/|_|  |_|\_\ %s{v1.0}
                                                         %s                                                                                          
                                                                                                     
-%s                                                                        
-[+] This project is still under development , Sorry for the bugs and errors		[+]                                                          [+]       
-[+]       Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		      		[+] 
-[-]           twitter/%s@ilyas_essar %s                          		 		[-] 
-[-]                                             				 		        [-] 
-
-    Select from the menu:
+%s   
+.------------------------------------------------------------------------------------.                                                                     
+    This project is still under development , Sorry for the bugs and errors		     |                    
+																					 |	
+           Coded BY %s Ilyas Essar %s& %s Khadija Azimi   %s 		      		     |
+                   twitter/%s@ilyas_essar %s                          		 	     |                                        				 		    
+'------------------------------------------------------------------------------------'
+   
+   Select from the menu:
     
     1 : Information Gathering
     2 : Password Attacks
