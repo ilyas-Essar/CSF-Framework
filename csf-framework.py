@@ -73,9 +73,8 @@ def menu():
 ------------------------------------------------------------------------------------                                                                     
     This project is still under development , Sorry for the bugs and errors		                       																						
            Coded BY %sIlyas Essar %s& %sKhadija Azimi%s 		      
-                   twitter/%s@ilyas_essar%s              
-				   
-'-----------------------------------------------------------------------------------
+                   twitter/%s@ilyas_essar%s     				   
+-----------------------------------------------------------------------------------
    
    Select from the menu:
     
